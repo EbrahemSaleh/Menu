@@ -6,16 +6,16 @@
 
  #### when click All project
 
-![project](public\images\project.png)
+![project](\images\project.png)
 
 #### when click breakfast
-![breakfast](public\images\breakfast.png)
+![breakfast](\images\breakfast.png)
 
 #### when click lunch
-![lunch](public\images\lunch.png)
+![lunch](\images\lunch.png)
 
 #### when click shakes 
-![shakes](public\images\shakes.png)
+![shakes](\images\shakes.png)
 
 
 
