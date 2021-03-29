@@ -6,6 +6,10 @@
 - React 
 - css 
 - html 
+  
+# Demo for project 
+
+> live demo : https://gracious-shirley-5da814.netlify.app/
  # Screenshots to project
 
 
